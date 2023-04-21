@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+    background-size: cover;
+}
+
+.heading
+{
+   font-size: 23px;
+   width:100%;
+   margin: 0px;
+   height:180px;
+   box-shadow:5px 5px 5px rgb(255, 255, 255);
+}
+
+.heading_div{
+    float:none;
+    background: white;
+    padding:10px;
+    border-radius:20px;
+    color:black;
+}
+
+h3 
+  {
+  font-family:monospace;
+
+  }
+.heading_div2
+{
+  font-size: 18px;
+  background-color: blueviolet;
+  box-shadow: 10px 5px 5px pink;
+
+}
+.result_para_tag
+{
+   box-shadow: 5px 5px 5px violet;
+   font-size:20px;
+ }
